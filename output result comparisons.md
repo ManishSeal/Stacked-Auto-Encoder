@@ -31,4 +31,4 @@ On training with five labelled sample per class the prediction accuracy is:
 | Random Forest | 50.79 |
 | Neural Net | 69.3 |
 
-Results were as expected. The ANN of Scikit-Learn outperformed our Stacke Auto-Encoder most probably due to using momnetum while calculating gradients. The stacked auto encoder made here is a pretty simple one. Still such a simple model can outperform the standard classifiers.
+Results were as expected. The ANN of Scikit-Learn outperformed our Stacked Auto-Encoder most probably due to using momnetum while calculating gradients. The stacked auto encoder made here is a pretty simple one. Although simple, such a model can outperform the standard classifiers.
