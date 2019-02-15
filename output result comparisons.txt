@@ -1,4 +1,5 @@
-#Comparing results with Standard Classifiers
+**Comparing results with Standard Classifiers**
+
 The results of classification were compared to the results standard classification algorithm.
 On training with one labelled sample per class the prediction accuracy is:
 StackedAuto-Encoder (3 layer): 48.54
